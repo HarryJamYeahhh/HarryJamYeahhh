@@ -22,4 +22,4 @@ Here are some ideas to get you started:-->
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MathicTeaxion&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
 </a>
 
-![](https://luogu.wao3.cn/api/practice?id=127365&card_width=945)
+![](https://luogu.wao3.cn/api/practice?id=127365&card_width=920)
