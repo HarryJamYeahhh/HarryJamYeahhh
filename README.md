@@ -17,9 +17,16 @@ Here are some ideas to get you started:-->
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=MathicTeaxion&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MathicTeaxion&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
 </a>
-
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MathicTeaxion&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MathicTeaxion&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Top Langs" height="185px">
+</a>
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api?username=MathicTeaxion&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" target="_blank">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=MathicTeaxion&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Menci's GitHub stats" height="185px">
+</a>
+
+<a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MathicTeaxion&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=MathicTeaxion&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
 
 ![](https://luogu.wao3.cn/api/practice?id=127365&card_width=920)
