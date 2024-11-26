@@ -1,7 +1,7 @@
-# $\text{Welcome!}$👋 $\mathcal{MathicTeation\ here.}$
+# $\text{Welcome!}$👋 $\mathcal{iMeThi7ck\ here.}$
 
 <!--
-**MathicTeaxion/MathicTeaxion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iMeThi7ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
