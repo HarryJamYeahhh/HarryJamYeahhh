@@ -1,7 +1,7 @@
-# $\text{Welcome!}$👋 $\mathcal{iMeThi7ck\ here.}$
+# $\text{Welcome!}$👋 $\mathcal{HarryJamYeahhh\ here.}$
 
 <!--
-**iMeThi7ck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HarryJamYeahhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
 
