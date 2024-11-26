@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 * 🌟 $\mathrm{Contributor\ of\ our\ }$[OI Wiki](https://github.com/OI-wiki)
 * ❤️ $\mathrm{Love\ Linux\ and\ open\ source\ software}$
 * 📫 $\mathrm{How\ to\ reach\ me:\ }$ $\text{Teaxion@foxmail/outlook.com}$
-* 😄 $\mathrm{Pronouns:\ }$ $\mathcal{柒柒，小T，734xion，T34xion，MT}$
 
 ![Skills](https://skillicons.dev/icons?i=c,cpp,py,html,github,js,css,php,md,linux,vim,vscode,cloudflare,docker,git)
 <!--
